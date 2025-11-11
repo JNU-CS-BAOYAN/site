@@ -1,4 +1,6 @@
-baseURL = "https:/JNU-CS-BAOYAN.github.io/site/"
+baseURL = "https://JNU-CS-BAOYAN.github.io/site/"
+# baseURL = "https://example.com"
+
 
 # theme
 # 主题
