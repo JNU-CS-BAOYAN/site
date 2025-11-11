@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>吉林大学 - Tag - LoveIt</title>
-        <link>http://localhost:1313/tags/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/</link>
-        <description>吉林大学 - Tag - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
-    <title>2025年 Kikinvb 的预推免经验帖</title>
-    <link>http://localhost:1313/kikinvb/</link>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/kikinvb/</guid>
-    <description><![CDATA[<h1 id="zhaolis-保研经验分享">zhaoli&rsquo;s 保研经验分享</h1>]]></description>
-</item>
-</channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>吉林大学 - Tag - LoveIt</title><link>https:/JNU-CS-BAOYAN.github.io/site/tags/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/</link><description>吉林大学 - Tag - LoveIt</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https:/JNU-CS-BAOYAN.github.io/site/tags/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml"/><item><title>2025年 Kikinvb 的预推免经验帖</title><link>https:/JNU-CS-BAOYAN.github.io/site/kikinvb/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https:/JNU-CS-BAOYAN.github.io/site/kikinvb/</guid><description>&lt;h1 id="zhaolis-保研经验分享">zhaoli&amp;rsquo;s 保研经验分享&lt;/h1></description></item></channel></rss>

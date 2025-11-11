@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2025-11-11T15:05:36+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/zh-cn/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https:/JNU-CS-BAOYAN.github.io/site/en/sitemap.xml</loc><lastmod>2025-11-12T00:08:02+08:00</lastmod></sitemap><sitemap><loc>https:/JNU-CS-BAOYAN.github.io/site/zh-cn/sitemap.xml</loc></sitemap></sitemapindex>
