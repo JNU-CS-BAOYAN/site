@@ -1,1 +1,31 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https:/JNU-CS-BAOYAN.github.io/site/zh-cn/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https:/JNU-CS-BAOYAN.github.io/site/categories/"/><xhtml:link rel="alternate" hreflang="zh-cn" href="https:/JNU-CS-BAOYAN.github.io/site/zh-cn/categories/"/></url><url><loc>https:/JNU-CS-BAOYAN.github.io/site/zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https:/JNU-CS-BAOYAN.github.io/site/"/><xhtml:link rel="alternate" hreflang="zh-cn" href="https:/JNU-CS-BAOYAN.github.io/site/zh-cn/"/></url><url><loc>https:/JNU-CS-BAOYAN.github.io/site/zh-cn/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https:/JNU-CS-BAOYAN.github.io/site/tags/"/><xhtml:link rel="alternate" hreflang="zh-cn" href="https:/JNU-CS-BAOYAN.github.io/site/zh-cn/tags/"/></url></urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>//localhost:1313/JNU-CS-BAOYAN.github.io/site/zh-cn/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="//localhost:1313/JNU-CS-BAOYAN.github.io/site/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="//localhost:1313/JNU-CS-BAOYAN.github.io/site/zh-cn/categories/"
+                    /></url><url>
+            <loc>//localhost:1313/JNU-CS-BAOYAN.github.io/site/zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="//localhost:1313/JNU-CS-BAOYAN.github.io/site/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="//localhost:1313/JNU-CS-BAOYAN.github.io/site/zh-cn/"
+                    /></url><url>
+            <loc>//localhost:1313/JNU-CS-BAOYAN.github.io/site/zh-cn/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="//localhost:1313/JNU-CS-BAOYAN.github.io/site/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="//localhost:1313/JNU-CS-BAOYAN.github.io/site/zh-cn/tags/"
+                    /></url></urlset>
