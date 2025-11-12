@@ -106,6 +106,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
+  imagesLazyLoadEnable = true     # 懒加载
+  imagesWebpEnable = true         # WebP
+  enableImageCompress = true      # 压缩
 
   # Author config
   # 作者配置
