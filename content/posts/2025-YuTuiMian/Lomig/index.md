@@ -12,8 +12,8 @@ resources:
   - name: "featured-image"
     src: "Cover.png"
 
-categories: ["2025", "预推免"]
-tags: ["预推免", "2025", "人工智能专业", "东南大学"]
+categories: ["2025", "预推免", "人工智能专业"]
+tags: ["东南大学"]
 
 lightgallery: true
 feature: true   

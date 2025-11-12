@@ -1,1 +1,91 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>LoveIt</title><link>https://example.com/</link><description>Hugo theme - LoveIt</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 15:05:36 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>2025年 ccandtt 的预推免经验帖</title><link>https://example.com/ccandtt/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/ccandtt/</guid><description>&lt;h1 id="末二低rk的保研之路">末二低RK的保研之路&lt;/h1></description></item><item><title>2025年 feather1023 的预推免经验帖</title><link>https://example.com/feather1023/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/feather1023/</guid><description>&lt;h1 id="佛系保研经验分享">“佛系”保研经验分享&lt;/h1></description></item><item><title>2025年 haatohaaton 的预推免经验帖</title><link>https://example.com/haatohaaton/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/haatohaaton/</guid><description>&lt;h1 id="haatohaaton-预推免">Haatohaaton 预推免&lt;/h1></description></item><item><title>2025年 irokit 的预推免经验帖</title><link>https://example.com/irokit/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/irokit/</guid><description>&lt;h1 id="irokit-的预推免经验帖">irokit 的预推免经验帖&lt;/h1></description></item><item><title>2025年 Kikinvb 的预推免经验帖</title><link>https://example.com/kikinvb/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/kikinvb/</guid><description>&lt;h1 id="zhaolis-保研经验分享">zhaoli&amp;rsquo;s 保研经验分享&lt;/h1></description></item><item><title>2025年 Klein 的夏令营经验帖</title><link>https://example.com/klein/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/klein/</guid><description>&lt;h1 id="klein-的保研经验帖">Klein 的保研经验帖&lt;/h1></description></item><item><title>2025年 Le 的预推免经验帖</title><link>https://example.com/le/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/le/</guid><description>&lt;h1 id="les-pre-recommendation-experiences">Le&amp;rsquo;s Pre-Recommendation Experiences&lt;/h1></description></item><item><title>2025年 Leo 的夏令营经验帖</title><link>https://example.com/leo/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/leo/</guid><description>&lt;h1 id="leos-summercamp-experiences">Leo&amp;rsquo;s SummerCamp Experiences&lt;/h1></description></item><item><title>2025年 Leo 的预推免经验帖</title><link>https://example.com/leo/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/leo/</guid><description>&lt;h1 id="leos-yutuimian-experiences">Leo&amp;rsquo;s YuTuiMian Experiences&lt;/h1></description></item><item><title>2025年 Liwh 的预推免经验帖</title><link>https://example.com/liwh/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/liwh/</guid><description>&lt;h1 id="liwhs-pre-recommendation-experiences-">Liwh&amp;rsquo;s Pre-Recommendation Experiences 🎓&lt;/h1></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>江南大学 CS 保研仓库</title>
+        <link>http://localhost:1313/site/</link>
+        <description>一个收集了江南大学历届保研经验帖、材料等天才地宝的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 15:05:36 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/site/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>启航絮语</title>
+    <link>http://localhost:1313/site/prepost/</link>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/prepost/</guid>
+    <description><![CDATA[<h1 id="jnu-cs-baoyan">JNU-CS-BAOYAN</h1>
+<p>欢迎体验 <strong>江南大学计算机相关专业保研经验分享项目</strong>！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。</p>]]></description>
+</item>
+<item>
+    <title>2025年 ccandtt 的预推免经验帖</title>
+    <link>http://localhost:1313/site/ccandtt/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/ccandtt/</guid>
+    <description><![CDATA[<h1 id="末二低rk的保研之路">末二低RK的保研之路</h1>]]></description>
+</item>
+<item>
+    <title>2025年 feather1023 的预推免经验帖</title>
+    <link>http://localhost:1313/site/feather1023/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/feather1023/</guid>
+    <description><![CDATA[<h1 id="佛系保研经验分享">“佛系”保研经验分享</h1>]]></description>
+</item>
+<item>
+    <title>2025年 haatohaaton 的预推免经验帖</title>
+    <link>http://localhost:1313/site/haatohaaton/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/haatohaaton/</guid>
+    <description><![CDATA[<h1 id="haatohaaton-预推免">Haatohaaton 预推免</h1>]]></description>
+</item>
+<item>
+    <title>2025年 irokit 的预推免经验帖</title>
+    <link>http://localhost:1313/site/irokit/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/irokit/</guid>
+    <description><![CDATA[<h1 id="irokit-的预推免经验帖">irokit 的预推免经验帖</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Kikinvb 的预推免经验帖</title>
+    <link>http://localhost:1313/site/kikinvb/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/kikinvb/</guid>
+    <description><![CDATA[<h1 id="zhaolis-保研经验分享">zhaoli&rsquo;s 保研经验分享</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Klein 的夏令营经验帖</title>
+    <link>http://localhost:1313/site/klein/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/klein/</guid>
+    <description><![CDATA[<h1 id="klein-的保研经验帖">Klein 的保研经验帖</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Le 的预推免经验帖</title>
+    <link>http://localhost:1313/site/le/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/le/</guid>
+    <description><![CDATA[<h1 id="les-pre-recommendation-experiences">Le&rsquo;s Pre-Recommendation Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Leo 的夏令营经验帖</title>
+    <link>http://localhost:1313/site/leo/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/leo/</guid>
+    <description><![CDATA[<h1 id="leos-summercamp-experiences">Leo&rsquo;s SummerCamp Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Leo 的预推免经验帖</title>
+    <link>http://localhost:1313/site/leo/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/leo/</guid>
+    <description><![CDATA[<h1 id="leos-yutuimian-experiences">Leo&rsquo;s YuTuiMian Experiences</h1>]]></description>
+</item>
+</channel>
+</rss>

@@ -12,8 +12,8 @@ resources:
   - name: "featured-image"
     src: "image.jpg"
 
-categories: ["2025", "夏令营"]
-tags: ["夏令营", "2025", "人工智能专业", "南京航空航天大学"]
+categories: ["2025", "夏令营", "人工智能专业"]
+tags: ["南京航空航天大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留

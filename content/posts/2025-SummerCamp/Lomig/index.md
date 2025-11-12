@@ -12,8 +12,8 @@ resources:
   - name: "featured-image"
     src: "Cover.png"
 
-categories: ["2025", "夏令营"]
-tags: ["夏令营", "2025", "人工智能专业", "复旦大学", "华东理工大学", "浙江大学", "上海交通大学"]
+categories: ["2025", "夏令营", "人工智能专业"]
+tags: ["复旦大学", "华东理工大学", "浙江大学", "上海交通大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留

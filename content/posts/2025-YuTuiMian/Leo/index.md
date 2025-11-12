@@ -13,8 +13,8 @@ resources:
   - name: "featured-image"
     src: "image.jpg"
 
-categories: ["2025", "预推免"]
-tags: ["预推免", "2025", "数媒专业", "东南大学", "南京大学", "西安交通大学", "同济大学"]
+categories: ["2025", "预推免", "数媒专业"]
+tags: ["东南大学", "南京大学", "西安交通大学", "同济大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留

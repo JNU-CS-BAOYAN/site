@@ -12,8 +12,8 @@ resources:
   - name: "featured-image"
     src: "image.jpg"
 
-categories: ["2025", "夏令营"]
-tags: ["夏令营", "2025", "计算机科学与技术专业", "厦门大学", "电子科技大学", "东南大学"]
+categories: ["2025", "夏令营", "计算机科学与技术专业"]
+tags: ["厦门大学", "电子科技大学", "东南大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留

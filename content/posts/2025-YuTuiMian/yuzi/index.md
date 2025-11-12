@@ -13,8 +13,8 @@ resources:
   - name: "featured-image"
     src: "image.jpg"
 
-categories: ["2025", "预推免"]
-tags: ["预推免", "2025", "人工智能专业", "湖南大学", "南京理工大学", "江南大学"]
+categories: ["2025", "预推免", "人工智能专业"]
+tags: ["湖南大学", "南京理工大学", "江南大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留

@@ -8,12 +8,12 @@ draft: false
 
 images: []
 
-# resources:
-#   - name: "featured-image"
-#     src: "ZhuXian.jpg"
+resources:
+  - name: "featured-image"
+    src: "image.png"
 
-categories: ["2025", "夏令营"]
-tags: ["夏令营", "2025", "人工智能专业", "同济大学", "上海交通大学", "复旦大学", "中国科学技术大学", "华东师范大学", "东南大学"]
+categories: ["2025", "夏令营", "人工智能专业"]
+tags: ["同济大学", "上海交通大学", "复旦大学", "中国科学技术大学", "华东师范大学", "东南大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留

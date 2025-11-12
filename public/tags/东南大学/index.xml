@@ -1,1 +1,80 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>东南大学 - Tag - LoveIt</title><link>https://example.com/tags/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6/</link><description>东南大学 - Tag - LoveIt</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml"/><item><title>2025年 feather1023 的预推免经验帖</title><link>https://example.com/feather1023/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/feather1023/</guid><description>&lt;h1 id="佛系保研经验分享">“佛系”保研经验分享&lt;/h1></description></item><item><title>2025年 Kikinvb 的预推免经验帖</title><link>https://example.com/kikinvb/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/kikinvb/</guid><description>&lt;h1 id="zhaolis-保研经验分享">zhaoli&amp;rsquo;s 保研经验分享&lt;/h1></description></item><item><title>2025年 Le 的预推免经验帖</title><link>https://example.com/le/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/le/</guid><description>&lt;h1 id="les-pre-recommendation-experiences">Le&amp;rsquo;s Pre-Recommendation Experiences&lt;/h1></description></item><item><title>2025年 Leo 的预推免经验帖</title><link>https://example.com/leo/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/leo/</guid><description>&lt;h1 id="leos-yutuimian-experiences">Leo&amp;rsquo;s YuTuiMian Experiences&lt;/h1></description></item><item><title>2025年 LuLu 的夏令营经验帖</title><link>https://example.com/lulu/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/lulu/</guid><description>&lt;h1 id="lus-summercamp-experiences">Lu&amp;rsquo;s SummerCamp Experiences&lt;/h1></description></item><item><title>2025年 MKK 的夏令营经验帖</title><link>https://example.com/mkk/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/mkk/</guid><description>&lt;h1 id="mkk-的夏令营经验帖">MKK 的夏令营经验帖&lt;/h1></description></item><item><title>2025年 pingpig 的夏令营经验帖</title><link>https://example.com/pingpig/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/pingpig/</guid><description>&lt;h1 id="pingpig的夏令营一手凉凉经">pingpig的夏令营一手凉凉经&lt;/h1></description></item><item><title>2025年 Klein 的预推免经验帖</title><link>https://example.com/klein/</link><pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/klein/</guid><description>&lt;h1 id="klein-的预推免经验帖">Klein 的预推免经验帖&lt;/h1></description></item><item><title>2025年 Lomig 的预推免经验帖</title><link>https://example.com/lomig/</link><pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate><author>xxxx</author><guid>https://example.com/lomig/</guid><description>&lt;h1 id="lomigs-pre-recommendation-experiences">Lomig&amp;rsquo;s Pre-Recommendation Experiences&lt;/h1></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>东南大学 - 标签 - 江南大学 CS 保研仓库</title>
+        <link>http://localhost:1313/site/tags/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6/</link>
+        <description>东南大学 - 标签 - 江南大学 CS 保研仓库</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/site/tags/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>2025年 feather1023 的预推免经验帖</title>
+    <link>http://localhost:1313/site/feather1023/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/feather1023/</guid>
+    <description><![CDATA[<h1 id="佛系保研经验分享">“佛系”保研经验分享</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Kikinvb 的预推免经验帖</title>
+    <link>http://localhost:1313/site/kikinvb/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/kikinvb/</guid>
+    <description><![CDATA[<h1 id="zhaolis-保研经验分享">zhaoli&rsquo;s 保研经验分享</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Le 的预推免经验帖</title>
+    <link>http://localhost:1313/site/le/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/le/</guid>
+    <description><![CDATA[<h1 id="les-pre-recommendation-experiences">Le&rsquo;s Pre-Recommendation Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Leo 的预推免经验帖</title>
+    <link>http://localhost:1313/site/leo/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/leo/</guid>
+    <description><![CDATA[<h1 id="leos-yutuimian-experiences">Leo&rsquo;s YuTuiMian Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 LuLu 的夏令营经验帖</title>
+    <link>http://localhost:1313/site/lulu/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/lulu/</guid>
+    <description><![CDATA[<h1 id="lus-summercamp-experiences">Lu&rsquo;s SummerCamp Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 MKK 的夏令营经验帖</title>
+    <link>http://localhost:1313/site/mkk/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/mkk/</guid>
+    <description><![CDATA[<h1 id="mkk-的夏令营经验帖">MKK 的夏令营经验帖</h1>]]></description>
+</item>
+<item>
+    <title>2025年 pingpig 的夏令营经验帖</title>
+    <link>http://localhost:1313/site/pingpig/</link>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/pingpig/</guid>
+    <description><![CDATA[<h1 id="pingpig的夏令营一手凉凉经">pingpig的夏令营一手凉凉经</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Klein 的预推免经验帖</title>
+    <link>http://localhost:1313/site/klein/</link>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/klein/</guid>
+    <description><![CDATA[<h1 id="klein-的预推免经验帖">Klein 的预推免经验帖</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Lomig 的预推免经验帖</title>
+    <link>http://localhost:1313/site/lomig/</link>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/lomig/</guid>
+    <description><![CDATA[<h1 id="lomigs-pre-recommendation-experiences">Lomig&rsquo;s Pre-Recommendation Experiences</h1>]]></description>
+</item>
+</channel>
+</rss>

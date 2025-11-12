@@ -12,8 +12,8 @@ resources:
   - name: "featured-image"
     src: "image.jpg"
 
-categories: ["2025", "预推免"]
-tags: ["预推免", "2025", "数媒专业", "上海交通大学", "浙江大学", "华东师范大学"]
+categories: ["2025", "夏令营", "数媒专业"]
+tags: ["上海交通大学", "浙江大学", "华东师范大学"]
 
 lightgallery: true
 feature: true   # 可选，保险起见保留
