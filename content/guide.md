@@ -13,7 +13,7 @@ images: []
 
 <!--more-->
 
-![时间线流程图](/TimeLine.png)
+{{< figure src="/TimeLine.png" >}}
 
 # JNU-CS-BAOYAN
 

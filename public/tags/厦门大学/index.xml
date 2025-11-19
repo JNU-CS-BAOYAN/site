@@ -1,39 +1,39 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>厦门大学 - 标签 - 江南大学 CS 保研仓库</title>
-        <link>http://localhost:1313/site/tags/%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6/</link>
+        <link>http://localhost:1313/tags/%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6/</link>
         <description>厦门大学 - 标签 - 江南大学 CS 保研仓库</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
-            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/site/tags/%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
     <title>2025年 Klein 的夏令营经验帖</title>
-    <link>http://localhost:1313/site/klein_sc/</link>
+    <link>http://localhost:1313/klein_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/site/klein_sc/</guid>
+    <guid>http://localhost:1313/klein_sc/</guid>
     <description><![CDATA[<h1 id="klein-的保研经验帖">Klein 的保研经验帖</h1>]]></description>
 </item>
 <item>
     <title>2025年 ccandtt 的预推免经验帖</title>
-    <link>http://localhost:1313/site/ccandtt_yt/</link>
+    <link>http://localhost:1313/ccandtt_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/site/ccandtt_yt/</guid>
+    <guid>http://localhost:1313/ccandtt_yt/</guid>
     <description><![CDATA[<h1 id="末二低rk的保研之路">末二低RK的保研之路</h1>]]></description>
 </item>
 <item>
     <title>2025年 MKK 的夏令营经验帖</title>
-    <link>http://localhost:1313/site/mkk_sc/</link>
+    <link>http://localhost:1313/mkk_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/site/mkk_sc/</guid>
+    <guid>http://localhost:1313/mkk_sc/</guid>
     <description><![CDATA[<h1 id="mkk-的夏令营经验帖">MKK 的夏令营经验帖</h1>]]></description>
 </item>
 <item>
     <title>2025年 pingpig 的夏令营经验帖</title>
-    <link>http://localhost:1313/site/pingpig_sc/</link>
+    <link>http://localhost:1313/pingpig_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/site/pingpig_sc/</guid>
+    <guid>http://localhost:1313/pingpig_sc/</guid>
     <description><![CDATA[<h1 id="pingpig的夏令营一手凉凉经">pingpig的夏令营一手凉凉经</h1>]]></description>
 </item>
 </channel>
