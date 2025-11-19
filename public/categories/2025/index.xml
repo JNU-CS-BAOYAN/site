@@ -1,87 +1,87 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>2025 - 分类 - 江南大学 CS 保研仓库</title>
-        <link>http://localhost:1313/categories/2025/</link>
+        <link>http://localhost:1313/site/categories/2025/</link>
         <description>2025 - 分类 - 江南大学 CS 保研仓库</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
-            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/2025/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/site/categories/2025/" rel="self" type="application/rss+xml" /><item>
     <title>2025年 Klein 的夏令营经验帖</title>
-    <link>http://localhost:1313/klein_sc/</link>
+    <link>http://localhost:1313/site/klein_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/klein_sc/</guid>
+    <guid>http://localhost:1313/site/klein_sc/</guid>
     <description><![CDATA[<h1 id="klein-的保研经验帖">Klein 的保研经验帖</h1>]]></description>
 </item>
 <item>
     <title>2025年 Lomig 的夏令营经验帖</title>
-    <link>http://localhost:1313/lomig_sc/</link>
+    <link>http://localhost:1313/site/lomig_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/lomig_sc/</guid>
+    <guid>http://localhost:1313/site/lomig_sc/</guid>
     <description><![CDATA[<h1 id="lomigs-summercamp-experiences">Lomig&rsquo;s SummerCamp Experiences</h1>]]></description>
 </item>
 <item>
     <title>2025年 LuLu 的夏令营经验帖</title>
-    <link>http://localhost:1313/lulu_sc/</link>
+    <link>http://localhost:1313/site/lulu_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/lulu_sc/</guid>
+    <guid>http://localhost:1313/site/lulu_sc/</guid>
     <description><![CDATA[<h1 id="lus-summercamp-experiences">Lu&rsquo;s SummerCamp Experiences</h1>]]></description>
 </item>
 <item>
     <title>2025年 ccandtt 的预推免经验帖</title>
-    <link>http://localhost:1313/ccandtt_yt/</link>
+    <link>http://localhost:1313/site/ccandtt_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/ccandtt_yt/</guid>
+    <guid>http://localhost:1313/site/ccandtt_yt/</guid>
     <description><![CDATA[<h1 id="末二低rk的保研之路">末二低RK的保研之路</h1>]]></description>
 </item>
 <item>
     <title>2025年 feather1023 的预推免经验帖</title>
-    <link>http://localhost:1313/feather1023_yt/</link>
+    <link>http://localhost:1313/site/feather1023_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/feather1023_yt/</guid>
+    <guid>http://localhost:1313/site/feather1023_yt/</guid>
     <description><![CDATA[<h1 id="佛系保研经验分享">“佛系”保研经验分享</h1>]]></description>
 </item>
 <item>
     <title>2025年 haatohaaton 的预推免经验帖</title>
-    <link>http://localhost:1313/haatohaaton_yt/</link>
+    <link>http://localhost:1313/site/haatohaaton_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/haatohaaton_yt/</guid>
+    <guid>http://localhost:1313/site/haatohaaton_yt/</guid>
     <description><![CDATA[<h1 id="haatohaaton-预推免">Haatohaaton 预推免</h1>]]></description>
 </item>
 <item>
     <title>2025年 irokit 的预推免经验帖</title>
-    <link>http://localhost:1313/irokit_yt/</link>
+    <link>http://localhost:1313/site/irokit_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/irokit_yt/</guid>
+    <guid>http://localhost:1313/site/irokit_yt/</guid>
     <description><![CDATA[<h1 id="irokit-的预推免经验帖">irokit 的预推免经验帖</h1>]]></description>
 </item>
 <item>
     <title>2025年 Kikinvb 的预推免经验帖</title>
-    <link>http://localhost:1313/kikinvb_yt/</link>
+    <link>http://localhost:1313/site/kikinvb_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/kikinvb_yt/</guid>
+    <guid>http://localhost:1313/site/kikinvb_yt/</guid>
     <description><![CDATA[<h1 id="zhaolis-保研经验分享">zhaoli&rsquo;s 保研经验分享</h1>]]></description>
 </item>
 <item>
     <title>2025年 Le 的预推免经验帖</title>
-    <link>http://localhost:1313/le_yt/</link>
+    <link>http://localhost:1313/site/le_yt/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/le_yt/</guid>
+    <guid>http://localhost:1313/site/le_yt/</guid>
     <description><![CDATA[<h1 id="les-pre-recommendation-experiences">Le&rsquo;s Pre-Recommendation Experiences</h1>]]></description>
 </item>
 <item>
     <title>2025年 Leo 的夏令营经验帖</title>
-    <link>http://localhost:1313/leo_sc/</link>
+    <link>http://localhost:1313/site/leo_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
     <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/leo_sc/</guid>
+    <guid>http://localhost:1313/site/leo_sc/</guid>
     <description><![CDATA[<h1 id="leos-summercamp-experiences">Leo&rsquo;s SummerCamp Experiences</h1>]]></description>
 </item>
 </channel>

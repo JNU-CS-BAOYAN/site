@@ -3,7 +3,7 @@
 
 <!--more-->
 
-{{< figure src="/TimeLine.png" >}}
+{{< figure src="/site/TimeLine.png" >}}
 
 # JNU-CS-BAOYAN
 
