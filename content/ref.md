@@ -31,6 +31,8 @@ authorLink: "https://github.com/kleinblue4"
 
 - **Edge 浏览器**：你没看错，可以用这玩意把全能扫描王产生的水印给 P 掉，选择白色涂色笔就行。
 
+- [**Mentor Show**](https://www.mentor-show.com/)：一个关于保研、考研、直博、硕博连读等不同升学方式的咨询平台，可以添加对应学长学姐的联系方式进行咨询
+
 ---
 
 ## 简历制作 📃
