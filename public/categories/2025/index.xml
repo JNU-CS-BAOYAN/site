@@ -4,7 +4,7 @@
         <link>http://localhost:1313/site/categories/2025/</link>
         <description>2025 - 分类 - 江南大学 CS 保研仓库</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a2194037898@163.com (RanZe)</managingEditor>
-            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/site/categories/2025/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>a2194037898@163.com (RanZe)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Apr 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/site/categories/2025/" rel="self" type="application/rss+xml" /><item>
     <title>2025年 Klein 的夏令营经验帖</title>
     <link>http://localhost:1313/site/klein_sc/</link>
     <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
@@ -27,6 +27,14 @@
     <author>a2194037898@163.com (RanZe)</author>
     <guid>http://localhost:1313/site/lulu_sc/</guid>
     <description><![CDATA[<h1 id="lus-summercamp-experiences">Lu&rsquo;s SummerCamp Experiences</h1>]]></description>
+</item>
+<item>
+    <title>2025年 Eternity 的预推免经验帖</title>
+    <link>http://localhost:1313/site/eternity_yt/</link>
+    <pubDate>Sun, 05 Apr 2026 00:00:00 &#43;0000</pubDate>
+    <author>a2194037898@163.com (RanZe)</author>
+    <guid>http://localhost:1313/site/eternity_yt/</guid>
+    <description><![CDATA[<h1 id="eternitys-pre-recommendation-experiences">Eternity&rsquo;s Pre-Recommendation Experiences</h1>]]></description>
 </item>
 <item>
     <title>2025年 ccandtt 的预推免经验帖</title>
@@ -75,14 +83,6 @@
     <author>a2194037898@163.com (RanZe)</author>
     <guid>http://localhost:1313/site/le_yt/</guid>
     <description><![CDATA[<h1 id="les-pre-recommendation-experiences">Le&rsquo;s Pre-Recommendation Experiences</h1>]]></description>
-</item>
-<item>
-    <title>2025年 Leo 的夏令营经验帖</title>
-    <link>http://localhost:1313/site/leo_sc/</link>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 &#43;0000</pubDate>
-    <author>a2194037898@163.com (RanZe)</author>
-    <guid>http://localhost:1313/site/leo_sc/</guid>
-    <description><![CDATA[<h1 id="leos-summercamp-experiences">Leo&rsquo;s SummerCamp Experiences</h1>]]></description>
 </item>
 </channel>
 </rss>
